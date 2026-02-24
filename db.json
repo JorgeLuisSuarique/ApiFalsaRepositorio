@@ -1,0 +1,13 @@
+{ "players": [
+    {
+      "id": 1,
+      "name": "Peludo A",
+      "cards": [1, 3, 5]
+    },
+    {
+      "id": 2,
+      "name": "Peludo B",
+      "cards": [2, 4, 6]
+    }
+  ]
+}
